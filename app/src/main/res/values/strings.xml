@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip_Time</string>
+    <string name="map_distance">Map distance</string>
+    <string name="maps_scale_calculation">Maps Scale Calculator</string>
+    <string name="map_distances">Map Distance :</string>
+    <string name="input_maps_distance">Input Maps Distance</string>
+    <string name="cm">CM</string>
+    <string name="map_scale">Map Scale :</string>
+    <string name="scale_banding">0</string>
+    <string name="input_map_scale">input map scale</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_text">The actual distance according to the map scale is</string>
+</resources>
